@@ -1,4 +1,6 @@
-InstaWin -- Code Example // Job Application @ LittleFirework
+InstaWin
+-----------
+Code Example // Job Application @ LittleFirework
 -----------
 Simple raffle-style giveaway in PHP using the Doctrine 2 ORM for database persistence
 
