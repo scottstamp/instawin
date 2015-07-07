@@ -1,0 +1,14 @@
+Prize:
+  type: entity
+  table: prizes
+  id:
+    id:
+      type: integer
+      generator:
+        strategy: AUTO
+  fields:
+    name:
+      type: string
+    awarded:
+      type: boolean
+      default: false

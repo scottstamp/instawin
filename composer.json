@@ -1,0 +1,19 @@
+{
+  "name": "scottstamp/instawin",
+  "description": "Submission for LittleFirework job interview process",
+  "minimum-stability": "stable",
+  "license": "foss",
+  "authors": [
+    {
+      "name": "Scott Stamp",
+      "email": "scott.stamp@hypermine.com"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "2.4.*",
+    "symfony/yaml": "2.*"
+  },
+  "autoload": {
+    "psr-0": {"": "src/"}
+  }
+}

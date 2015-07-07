@@ -1,0 +1,9 @@
+<?php
+$conn = array(
+	'driver' => 'mysqli',
+	'host' => 'localhost',
+	'port' => 3306,
+	'user' => 'instawin',
+	'password' => 'CHANGEME',
+	'dbname' => 'instawin'
+);
